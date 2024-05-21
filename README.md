@@ -1,2 +1,2 @@
 # Digital-Combination-Locker
-#this is the project for coen313(digital design II)
+#this is the project for hardware testing using VHDL
